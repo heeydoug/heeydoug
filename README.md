@@ -1,4 +1,4 @@
-### oie, what's up 👋
+### hey, what's up 👋
 
 <p align="center">
   <img src="img.gif" alt="Hello Guys!">
@@ -6,7 +6,7 @@
 
 ## about me
 
-oie pessoal, sou o Douglas, formado em Sistemas de Informação pelo IFES ☀️🐱. Sou um desenvolvedor apaixonado por frontend e pelas áreas do design. 
+Oi pessoal, sou o Douglas Almeida, formado em Sistemas de Informação pelo Instituto Federal do Espírito Santo - IFES ☀️🐱. Sou um desenvolvedor apaixonado por frontend e pelas áreas do design. 
 
 ## skills
 
